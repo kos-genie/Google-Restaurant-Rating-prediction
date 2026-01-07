@@ -1,3 +1,10 @@
+## I used Google Restaurants dataset available on https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants
+## Description
+*This is a mutli-modal dataset of restaurants from Google Local (Google Maps). Data includes images and reviews posted by users, as well as other metadata for each restaurant.*
+
+I thought this was an interesting dataset to explore, because everyone likes food including me.
+
+
 ## Model Performance Comparison (Confusion Matrix and Key Metrics) ##
 |                                         | TN   | FP   | FN   | TP   | Accuracy   | F1-Score (Pos)   | F1-Score (Neg)   |
 |:----------------------------------------|:-----|:-----|:-----|:-----|:-----------|:-----------------|:-----------------|
